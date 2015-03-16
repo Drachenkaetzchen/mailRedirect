@@ -23,7 +23,7 @@ navigate into the modules/ directory and:
 
 
 ##LICENSE
-vt-devutils Module for OXID eShop 4.7
+oxid Mail Redirect Module for OXID eShop 4.7
 Copyright (C) 2013 Timo A. Hummel
 
 This program is free software;
