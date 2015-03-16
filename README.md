@@ -11,7 +11,7 @@ If you find this plugin useful, please donate via PayPal or flattr.
 
 ##REQUIREMENTS
 
-* OXID 4.7.x
+* OXID 4.7.x, probably works with newer OXID versions as well.
 
 ##INSTALLATION
 copy the content of the "**copy_this**" folder into the shop root directory
